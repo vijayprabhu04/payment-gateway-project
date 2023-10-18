@@ -1,3 +1,3 @@
 # This code created virtula machine in AWS
 # This code creates vm in Mumbai region
-# This code creates 25 virtual machines
+# This code creates 25 virtual machines with t2.medium size (previously it used to create t2.micro machines)
